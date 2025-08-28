@@ -21,3 +21,25 @@ This only matters if you're not running the game on the release version, thus on
 These lines check if the settings are loaded in already or not. If not, it loads the setting, else it checks for the settings file, try to go across it to retrieve settings, if it can't, then it results in an error and the game cannor start.
 After this, it saves the init settings.
 
+4. Lines 56 to 83
+
+Sets up the game window, puts it in fullscreen if needed.
+Loads the audio files and background textures.
+
+5. Lines 85 to 99
+
+Keybinds setup
+
+6. Line 100
+
+Start to account for inputs
+
+7. Lines 102 to 108
+
+Sets up flagNames : solid, jump through, ladder, death, handle, drops, spores.
+
+8. Line 110
+
+Sets font height.
+
+9. Lines 
