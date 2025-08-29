@@ -42,4 +42,8 @@ Sets up flagNames : solid, jump through, ladder, death, handle, drops, spores.
 
 Sets font height.
 
-9. Lines 
+9. Lines 112 to 118
+
+Defines sm as the state machine and use it to put the program in the intro state.
+
+10. Lines 120 to 136
