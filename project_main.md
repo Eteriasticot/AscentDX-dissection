@@ -46,4 +46,6 @@ Sets font height.
 
 Defines sm as the state machine and use it to put the program in the intro state.
 
+## Lines 120 to 136
+
 10. Lines 120 to 136
