@@ -48,4 +48,14 @@ Defines sm as the state machine and use it to put the program in the intro state
 
 ## Lines 120 to 136
 
-10. Lines 120 to 136
+### Save reset function
+
+1. Lines 122 to 132
+
+Sets the game.progress to a blank progress state.
+
+2. Lines 134 to 136
+
+Sets the current settings into the json file and saves it.
+
+
